@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gabriel Aires</h1>
-<h3 align="center">Student of the Software Engineering course and Systems Programmer at SENAC-TO.</h3>
+<h1>Hi 👋, I'm Gabriel Aires</h1>
+<h3>Student of the Software Engineering course and Systems Programmer at SENAC-TO.</h3>
 
 - 🔭 I’m currently working on [Origin of Tomorrow Game](https://github.com/gabriel-aires09/origintomorow)
 
