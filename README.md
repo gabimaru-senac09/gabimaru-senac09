@@ -1,3 +1,7 @@
+<p align="center">
+  <img width=400  alt="Pixel art gif" src="https://i.gifer.com/YQgT.gif">
+</p>
+
 <h1>Hi 👋, I'm Gabriel Aires</h1>
 <h3>Student of the Software Engineering course and Systems Programmer at SENAC-TO.</h3>
 
