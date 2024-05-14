@@ -1,6 +1,6 @@
-<p align="center">
-  <img width=400  alt="Pixel art gif" src="https://i.gifer.com/YQgT.gif">
-</p>
+
+![steamuserimages-a akamaihd](https://github.com/gabimaru-senac09/gabimaru-senac09/assets/169712868/c6cddd81-55d6-43f2-85e8-667269ef1f12)
+
 
 <h1>Hi 👋, I'm Gabriel Aires</h1>
 <h3>Student of the Software Engineering course and Systems Programmer at SENAC-TO.</h3>
